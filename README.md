@@ -1,5 +1,4 @@
 ![HackaTime](https://github-readme-stats.hackclub.dev/api/wakatime?username=22920&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=tokyonight)
-![Sharkey](https://downloadmoregenders.com/embed/notes/agufjtb3c1mk0047)
 <!--
 **Bnenne/Bnenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
